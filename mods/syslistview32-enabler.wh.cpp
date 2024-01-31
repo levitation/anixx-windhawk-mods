@@ -14,8 +14,10 @@ Enables the SysListView32 control in File Explorer folder windows.
 This makes the view more compact and allows icon rearrangement.
 SysListView32 control has been used by default before Windows 7.
 
+Default view:
 ![Default view](https://i.imgur.com/rPpiFEU.png)
 
+SysListView32 enabled:
 ![SysListView32 mode](https://i.imgur.com/oqYf1YW.png)
 
 */
