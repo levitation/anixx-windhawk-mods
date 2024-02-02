@@ -18,6 +18,9 @@
 This mod forces Aero Lite window borders on browsers MS Edge, Chrome, Chromium, Steam app and UWP apps,
 which fixes their glitches when using Windows Classic theme. Note that UWP apps need a separate fix
 to be able to run under Windows Classic theme (https://winclassic.net/thread/2058/classic-uwp-fix).
+
+![Aero Lite](https://i.imgur.com/5enqSD8.png)
+
 */
 // ==/WindhawkModReadme==
 
